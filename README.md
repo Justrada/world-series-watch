@@ -27,6 +27,8 @@ npm run build        # type-check + production build
 scoreboard — no API key — and writes `public/data/standings.json` (records, playoff odds,
 seeds, magic numbers, run differential) plus a computed playoff picture, and `games.json`.
 A nightly GitHub Actions cron refreshes it and redeploys automatically — no manual routine
-needed. Unlike the World Cup site, there's no media to curate, so the script does it all.
+needed for the data. Unlike the World Cup site, there's no media to curate, so the script
+does it all. An optional Claude editorial routine (a plain-English "state of the race"
+digest + feed sanity check + playoff-phase watch) lives in [NIGHTLY_ROUTINE.md](NIGHTLY_ROUTINE.md).
 
 Unofficial, non-commercial fan project. Not affiliated with MLB or any team.
