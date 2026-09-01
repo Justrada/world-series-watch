@@ -1,23 +1,11 @@
 {
- "generatedAt": "2026-08-31T17:40:30.248Z",
+ "generatedAt": "2026-09-01T15:04:32.899Z",
  "games": [
   {
-   "id": "401878657",
-   "date": "2026-08-31T22:05Z",
+   "id": "401816759",
+   "date": "2026-09-01T22:40Z",
    "status": "pre",
-   "detail": "8/31 - 6:05 PM EDT",
-   "homeId": "15",
-   "awayId": "26",
-   "homeScore": 0,
-   "awayScore": 0,
-   "homeAbbr": "ATL",
-   "awayAbbr": "SF"
-  },
-  {
-   "id": "401816748",
-   "date": "2026-08-31T22:40Z",
-   "status": "pre",
-   "detail": "8/31 - 6:40 PM EDT",
+   "detail": "9/1 - 6:40 PM EDT",
    "homeId": "30",
    "awayId": "21",
    "homeScore": 0,
@@ -26,10 +14,10 @@
    "awayAbbr": "NYM"
   },
   {
-   "id": "401816749",
-   "date": "2026-08-31T22:40Z",
+   "id": "401816760",
+   "date": "2026-09-01T22:40Z",
    "status": "pre",
-   "detail": "8/31 - 6:40 PM EDT",
+   "detail": "9/1 - 6:40 PM EDT",
    "homeId": "17",
    "awayId": "25",
    "homeScore": 0,
@@ -38,22 +26,46 @@
    "awayAbbr": "SD"
   },
   {
-   "id": "401816747",
-   "date": "2026-08-31T22:45Z",
+   "id": "401816762",
+   "date": "2026-09-01T22:40Z",
    "status": "pre",
-   "detail": "8/31 - 6:45 PM EDT",
+   "detail": "9/1 - 6:40 PM EDT",
+   "homeId": "23",
+   "awayId": "26",
+   "homeScore": 0,
+   "awayScore": 0,
+   "homeAbbr": "PIT",
+   "awayAbbr": "SF"
+  },
+  {
+   "id": "401816763",
+   "date": "2026-09-01T22:40Z",
+   "status": "pre",
+   "detail": "9/1 - 6:40 PM EDT",
+   "homeId": "5",
+   "awayId": "14",
+   "homeScore": 0,
+   "awayScore": 0,
+   "homeAbbr": "CLE",
+   "awayAbbr": "TOR"
+  },
+  {
+   "id": "401816758",
+   "date": "2026-09-01T22:45Z",
+   "status": "pre",
+   "detail": "9/1 - 6:45 PM EDT",
    "homeId": "20",
-   "awayId": "28",
+   "awayId": "15",
    "homeScore": 0,
    "awayScore": 0,
    "homeAbbr": "WSH",
-   "awayAbbr": "MIA"
+   "awayAbbr": "ATL"
   },
   {
-   "id": "401816750",
-   "date": "2026-08-31T22:45Z",
+   "id": "401816761",
+   "date": "2026-09-01T22:45Z",
    "status": "pre",
-   "detail": "8/31 - 6:45 PM EDT",
+   "detail": "9/1 - 6:45 PM EDT",
    "homeId": "2",
    "awayId": "12",
    "homeScore": 0,
@@ -62,10 +74,10 @@
    "awayAbbr": "SEA"
   },
   {
-   "id": "401816753",
-   "date": "2026-08-31T23:40Z",
+   "id": "401816766",
+   "date": "2026-09-01T23:40Z",
    "status": "pre",
-   "detail": "8/31 - 7:40 PM EDT",
+   "detail": "9/1 - 7:40 PM EDT",
    "homeId": "9",
    "awayId": "6",
    "homeScore": 0,
@@ -74,10 +86,22 @@
    "awayAbbr": "DET"
   },
   {
-   "id": "401816754",
-   "date": "2026-08-31T23:40Z",
+   "id": "401816767",
+   "date": "2026-09-01T23:40Z",
    "status": "pre",
-   "detail": "8/31 - 7:40 PM EDT",
+   "detail": "9/1 - 7:40 PM EDT",
+   "homeId": "7",
+   "awayId": "28",
+   "homeScore": 0,
+   "awayScore": 0,
+   "homeAbbr": "KC",
+   "awayAbbr": "MIA"
+  },
+  {
+   "id": "401816768",
+   "date": "2026-09-01T23:40Z",
+   "status": "pre",
+   "detail": "9/1 - 7:40 PM EDT",
    "homeId": "16",
    "awayId": "8",
    "homeScore": 0,
@@ -86,10 +110,10 @@
    "awayAbbr": "MIL"
   },
   {
-   "id": "401816751",
-   "date": "2026-09-01T00:05Z",
+   "id": "401816764",
+   "date": "2026-09-02T00:05Z",
    "status": "pre",
-   "detail": "8/31 - 8:05 PM EDT",
+   "detail": "9/1 - 8:05 PM EDT",
    "homeId": "13",
    "awayId": "11",
    "homeScore": 0,
@@ -98,10 +122,10 @@
    "awayAbbr": "ATH"
   },
   {
-   "id": "401816752",
-   "date": "2026-09-01T00:10Z",
+   "id": "401816765",
+   "date": "2026-09-02T00:10Z",
    "status": "pre",
-   "detail": "8/31 - 8:10 PM EDT",
+   "detail": "9/1 - 8:10 PM EDT",
    "homeId": "18",
    "awayId": "4",
    "homeScore": 0,
@@ -110,10 +134,10 @@
    "awayAbbr": "CHW"
   },
   {
-   "id": "401816755",
-   "date": "2026-09-01T00:40Z",
+   "id": "401816769",
+   "date": "2026-09-02T00:40Z",
    "status": "pre",
-   "detail": "8/31 - 8:40 PM EDT",
+   "detail": "9/1 - 8:40 PM EDT",
    "homeId": "27",
    "awayId": "1",
    "homeScore": 0,
@@ -122,10 +146,10 @@
    "awayAbbr": "BAL"
   },
   {
-   "id": "401816756",
-   "date": "2026-09-01T01:38Z",
+   "id": "401816770",
+   "date": "2026-09-02T01:38Z",
    "status": "pre",
-   "detail": "8/31 - 9:38 PM EDT",
+   "detail": "9/1 - 9:38 PM EDT",
    "homeId": "3",
    "awayId": "10",
    "homeScore": 0,
@@ -134,16 +158,28 @@
    "awayAbbr": "NYY"
   },
   {
-   "id": "401816757",
-   "date": "2026-09-01T01:40Z",
+   "id": "401816771",
+   "date": "2026-09-02T01:40Z",
    "status": "pre",
-   "detail": "8/31 - 9:40 PM EDT",
+   "detail": "9/1 - 9:40 PM EDT",
    "homeId": "29",
    "awayId": "22",
    "homeScore": 0,
    "awayScore": 0,
    "homeAbbr": "ARI",
    "awayAbbr": "PHI"
+  },
+  {
+   "id": "401816772",
+   "date": "2026-09-02T02:10Z",
+   "status": "pre",
+   "detail": "9/1 - 10:10 PM EDT",
+   "homeId": "19",
+   "awayId": "24",
+   "homeScore": 0,
+   "awayScore": 0,
+   "homeAbbr": "LAD",
+   "awayAbbr": "STL"
   }
  ]
 }
