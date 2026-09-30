@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-09-29T16:35:14.451Z",
+ "generatedAt": "2026-09-30T16:27:52.205Z",
  "games": [
   {
-   "id": "401907965",
-   "date": "2026-09-29T18:00Z",
+   "id": "401907972",
+   "date": "2026-09-30T18:00Z",
    "status": "pre",
-   "detail": "9/29 - 2:00 PM EDT",
+   "detail": "9/30 - 2:00 PM EDT",
    "homeId": "15",
    "awayId": "22",
    "homeScore": 0,
@@ -14,10 +14,10 @@
    "awayAbbr": "PHI"
   },
   {
-   "id": "401907896",
-   "date": "2026-09-29T21:00Z",
+   "id": "401907897",
+   "date": "2026-09-30T21:00Z",
    "status": "pre",
-   "detail": "9/29 - 5:00 PM EDT",
+   "detail": "9/30 - 5:00 PM EDT",
    "homeId": "18",
    "awayId": "4",
    "homeScore": 0,
@@ -26,10 +26,10 @@
    "awayAbbr": "CHW"
   },
   {
-   "id": "401907924",
-   "date": "2026-09-30T00:00Z",
+   "id": "401907963",
+   "date": "2026-10-01T00:00Z",
    "status": "pre",
-   "detail": "9/29 - 8:00 PM EDT",
+   "detail": "9/30 - 8:00 PM EDT",
    "homeId": "10",
    "awayId": "2",
    "homeScore": 0,
@@ -38,10 +38,10 @@
    "awayAbbr": "BOS"
   },
   {
-   "id": "401907974",
-   "date": "2026-09-30T02:00Z",
+   "id": "401907975",
+   "date": "2026-10-01T02:00Z",
    "status": "pre",
-   "detail": "9/29 - 10:00 PM EDT",
+   "detail": "9/30 - 10:00 PM EDT",
    "homeId": "25",
    "awayId": "16",
    "homeScore": 0,
