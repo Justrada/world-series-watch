@@ -1,53 +1,17 @@
 {
- "generatedAt": "2026-10-02T16:19:34.503Z",
+ "generatedAt": "2026-10-03T14:47:29.438Z",
  "games": [
   {
-   "id": "401907990",
-   "date": "2026-10-03T17:00Z",
-   "status": "pre",
-   "detail": "10/3 - 1:00 PM EDT",
-   "homeId": "5",
-   "awayId": "4",
-   "homeScore": 0,
-   "awayScore": 0,
-   "homeAbbr": "CLE",
-   "awayAbbr": "CHW"
-  },
-  {
-   "id": "401908007",
-   "date": "2026-10-03T20:00Z",
-   "status": "pre",
-   "detail": "10/3 - 4:00 PM EDT",
-   "homeId": "19",
-   "awayId": "15",
-   "homeScore": 0,
-   "awayScore": 0,
-   "homeAbbr": "LAD",
-   "awayAbbr": "ATL"
-  },
-  {
-   "id": "401907985",
-   "date": "2026-10-03T22:30Z",
-   "status": "pre",
-   "detail": "10/3 - 6:30 PM EDT",
-   "homeId": "30",
-   "awayId": "10",
-   "homeScore": 0,
-   "awayScore": 0,
-   "homeAbbr": "TB",
-   "awayAbbr": "NYY"
-  },
-  {
-   "id": "401908002",
-   "date": "2026-10-04T00:30Z",
-   "status": "pre",
-   "detail": "10/3 - 8:30 PM EDT",
-   "homeId": "8",
-   "awayId": "25",
-   "homeScore": 0,
-   "awayScore": 0,
-   "homeAbbr": "MIL",
-   "awayAbbr": "SD"
+   "id": "401907973",
+   "date": "2026-10-02T00:00Z",
+   "status": "post",
+   "detail": "Final",
+   "homeId": "15",
+   "awayId": "22",
+   "homeScore": 6,
+   "awayScore": 2,
+   "homeAbbr": "ATL",
+   "awayAbbr": "PHI"
   }
  ]
 }
