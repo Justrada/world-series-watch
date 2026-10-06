@@ -1,29 +1,29 @@
 {
- "generatedAt": "2026-10-05T19:31:28.388Z",
+ "generatedAt": "2026-10-06T16:52:57.926Z",
  "games": [
   {
-   "id": "401907991",
-   "date": "2026-10-05T21:00Z",
+   "id": "401908015",
+   "date": "2026-10-06T22:00Z",
    "status": "pre",
-   "detail": "10/5 - 5:00 PM EDT",
-   "homeId": "5",
-   "awayId": "4",
+   "detail": "10/6 - 6:00 PM EDT",
+   "homeId": "15",
+   "awayId": "19",
    "homeScore": 0,
    "awayScore": 0,
-   "homeAbbr": "CLE",
-   "awayAbbr": "CHW"
+   "homeAbbr": "ATL",
+   "awayAbbr": "LAD"
   },
   {
-   "id": "401907986",
-   "date": "2026-10-06T00:00Z",
+   "id": "401908004",
+   "date": "2026-10-07T01:30Z",
    "status": "pre",
-   "detail": "10/5 - 8:00 PM EDT",
-   "homeId": "30",
-   "awayId": "10",
+   "detail": "10/6 - 9:30 PM EDT",
+   "homeId": "25",
+   "awayId": "8",
    "homeScore": 0,
    "awayScore": 0,
-   "homeAbbr": "TB",
-   "awayAbbr": "NYY"
+   "homeAbbr": "SD",
+   "awayAbbr": "MIL"
   }
  ]
 }
