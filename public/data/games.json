@@ -1,17 +1,17 @@
 {
- "generatedAt": "2026-10-08T17:29:03.722Z",
+ "generatedAt": "2026-10-09T17:07:25.636Z",
  "games": [
   {
-   "id": "401907993",
-   "date": "2026-10-09T00:00Z",
+   "id": "401907994",
+   "date": "2026-10-11T00:00Z",
    "status": "pre",
-   "detail": "10/8 - 8:00 PM EDT",
-   "homeId": "4",
-   "awayId": "5",
+   "detail": "10/10 - 8:00 PM EDT",
+   "homeId": "5",
+   "awayId": "4",
    "homeScore": 0,
    "awayScore": 0,
-   "homeAbbr": "CHW",
-   "awayAbbr": "CLE"
+   "homeAbbr": "CLE",
+   "awayAbbr": "CHW"
   }
  ]
 }
