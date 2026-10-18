@@ -1,15 +1,15 @@
 {
- "generatedAt": "2026-10-17T13:50:19.074Z",
+ "generatedAt": "2026-10-18T14:05:53.824Z",
  "games": [
   {
-   "id": "401908026",
-   "date": "2026-10-17T00:00Z",
+   "id": "401908027",
+   "date": "2026-10-18T00:00Z",
    "status": "post",
-   "detail": "Postponed",
+   "detail": "Final",
    "homeId": "5",
    "awayId": "30",
-   "homeScore": 0,
-   "awayScore": 0,
+   "homeScore": 3,
+   "awayScore": 7,
    "homeAbbr": "CLE",
    "awayAbbr": "TB"
   }
