@@ -1,15 +1,15 @@
 {
- "generatedAt": "2026-10-24T14:04:15.174Z",
+ "generatedAt": "2026-10-25T14:28:47.266Z",
  "games": [
   {
-   "id": "401908042",
-   "date": "2026-10-24T00:00Z",
+   "id": "401908043",
+   "date": "2026-10-25T00:00Z",
    "status": "post",
    "detail": "Final",
    "homeId": "8",
    "awayId": "30",
-   "homeScore": 3,
-   "awayScore": 2,
+   "homeScore": 5,
+   "awayScore": 4,
    "homeAbbr": "MIL",
    "awayAbbr": "TB"
   }
